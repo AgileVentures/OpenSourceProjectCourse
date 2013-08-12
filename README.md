@@ -20,38 +20,6 @@ request were green and accepted into the main codebase by the repository
 maintainers.
 
 
-Topics for intro lectures
--------------------------
-* History of Software
-* Challenges of Project Management
-* History of OSS
-  * Prehistoric open source: BSD, MIT Emacs, X Windows, etc.
-  * GNU, Stallman, etc.
-  * Linux
-  * Today...
-* Well-known projects
-  * Linux
-    * Distros
-  * Languages (Ruby, ... which other ones are relevant enough)
-  * Android
-* Other models
-  * Proprietary software
-  * Standards-driven software (C++, etc.)
-  * Hybrid models (Java, etc.)
-* Roles in an OSS project
-  * Visionary/owner
-  * Main developers
-  * Contributers
-  * Testing
-  * Documentation
-  * Users
-  * (what else)
-* Challenges
-  * Audience too narrow
-  * Competing commercial interests/agendas
-  * Owner loses interest or focus
-  * Code forks and schisms
-    * Emacs; (any other famous stories)
 
 Sub Goals
 ------------------
@@ -69,12 +37,15 @@ Challenges
 * Teach in a language/platform independent way? Or limit to projects in a
   particular language?  Ditto for tool-chains; how to teach BDD/TDD
   without "locking in" too many tools.
+   -- makes sense to initially limit language
 * How to keep course from getting progressively harder? (As students pick
   off easy projects, it becomes increasingly difficult to find new
   projects).
+   -- course will need constant inflow of OS projects
 * How to avoid competition for tasks? (With a typical MOOC student base of
   thousands of students, many will gravitate to the same tasks. But, only
   one copy of code for a particular task can be accepted into a project).
+   -- could give credit simply for pull request, or ensure an ever increasing number of projects
 
 Background Material
 -------------------
