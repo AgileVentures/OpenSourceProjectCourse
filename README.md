@@ -45,7 +45,35 @@ Challenges
 * How to avoid competition for tasks? (With a typical MOOC student base of
   thousands of students, many will gravitate to the same tasks. But, only
   one copy of code for a particular task can be accepted into a project).
-   -- could give credit simply for pull request, or ensure an ever increasing number of projects
+   -- could give credit simply for pull request, or ensure an ever
+   increasing number of projects
+
+Motivation
+----------
+* Nice quote by [Paul Stacey](http://mooc.efquel.org/week-9-the-pedagogy-of-moocs-by-paul-stacey/)
+
+> Let me end with my own pedagogical recommendations for MOOC’s:
+>
+> * Be as open as possible. Go beyond open enrollments and use open
+>   pedagogies that leverage the entire web not just the specific content in
+>   the MOOC platform. As part of your open pedagogy strategy use OER and
+>   openly license your resources using Creative Commons licenses in a way
+>   that allows reuse, revision, remix, and redistribution. Make your MOOC
+>   platform open source software. Publish the learning analytics data you
+>   collect as open data using a CC0 license.      
+>
+> * Use tried and proven modern online learning pedagogies not campus
+>   classroom-based didactic learning pedagogies which we know are ill-suited
+>   to online learning.  
+>
+> * Use peer-to-peer pedagogies over self study. We know this improves
+>   learning outcomes. The cost of enabling a network of peers is the same as
+>   that of networking content – essentially zero.  
+>
+> * Use social learning including blogs, chat, discussion forums, wikis,
+>   and group assignments. 
+> * Leverage massive participation – have all students contribute
+>   something that adds to or improves the course overall. 
 
 Background Material
 -------------------
