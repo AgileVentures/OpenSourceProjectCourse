@@ -9,9 +9,9 @@ Possible Sequence
 
 HTML mockups also on github, but now we need command line etc to actually run the cucumber scenarios? Or do we ...?
 
-Can we deploy to heroku from web interface? Need quick and dirty testing environment for cucumber, ideally onlinee - can't find one - okay, so at this point we have to introduce the command line?  
+Can we deploy to heroku from web interface? Need quick and dirty testing environment for cucumber, ideally online - can't find one - okay, so at this point we have to introduce the command line?  
 
-Could be using github pages to deploy html site, then hitting that with cucumber ... cucumber could be run from rubymine ...
+Could be using github pages to deploy html site (or even dropbox?), then hitting that with cucumber ... cucumber could be run from rubymine ...
 
 want to try and inculcate the levels of testing from the beginning - but could also be talking about hacking something together in terms of time to market, but then the difficulty of maintaining
 
