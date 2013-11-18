@@ -5,4 +5,4 @@ Feature: See a web page
 
   Scenario: Check content
     Given that I am on the home page
-    Then I should see "Hello World"                         2
+    Then I should see "Hello World"
